@@ -11,3 +11,5 @@ cd lock
 chmod +x main.py
 
 python3 main.py
+
+![Screenshot 2024-04-24 211442](https://github.com/24aadi24/lock/assets/168001262/6f87d42c-4d00-4fa5-84ac-e50c55a4e270)
